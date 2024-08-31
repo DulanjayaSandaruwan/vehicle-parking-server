@@ -43,7 +43,7 @@ This is the backend for the Vehicle Parking Application, built using Spring Boot
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/car-parking-invoicing.git
+   git clone https://github.com/DulanjayaSandaruwan/vehicle-parking-server.git
    cd car-parking-invoicing/backend
    ```
 
